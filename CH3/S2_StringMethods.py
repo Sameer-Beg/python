@@ -1,0 +1,11 @@
+name = "sameer"
+print(len(name))
+print(name.endswith("r"))
+print(name.count("e"))
+print(name.endswith("s"))
+print(name.capitalize())
+print(name.find("m"))
+print(name.replace("e" , "a"))
+print(name*3)
+print(name[0:4])
+print(name[0::2])
